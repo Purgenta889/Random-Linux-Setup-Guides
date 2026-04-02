@@ -5,3 +5,6 @@ Niche or popular, this is a personal collection of the several guides I have mad
 
 ## How To Setup AudioRelay on Fedora 43
 https://rentry.co/audiorelaysetupfedora
+
+## How To Fix Hybrid Graphics Conflicts (NVIDIA & Intel) on Fedora 43 
+https://rentry.co/howtofixhybridgraphicsbootissuefedora43
