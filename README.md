@@ -8,3 +8,6 @@ https://rentry.co/audiorelaysetupfedora
 
 ## How To Fix Hybrid Graphics Boot Conflict (NVIDIA & Intel) on Fedora 43 
 https://rentry.co/howtofixhybridgraphicsbootissuefedora43
+
+## How To Run Sober Through Roblox Website on Firefox & Firefox-based Browsers
+https://rentry.co/firefoxbrowsersobernotbootingthroughrobloxsitefix
