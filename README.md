@@ -11,3 +11,6 @@ https://rentry.co/howtofixhybridgraphicsbootissuefedora43
 
 ## How To Run Sober Through Roblox Website on Firefox & Firefox-based Browsers
 https://rentry.co/firefoxbrowsersobernotbootingthroughrobloxsitefix
+
+## How To Fix Abrt-Applet Crash When Apps Shut Down After Session Ending On Fedora 43 
+https://rentry.co/abrtappletannoyingerrorfix
