@@ -14,3 +14,6 @@ https://rentry.co/firefoxbrowsersobernotbootingthroughrobloxsitefix
 
 ## How To Fix Abrt-Applet Crash When Apps Shut Down After Session Ending On Fedora 43 
 https://rentry.co/abrtappletannoyingerrorfix
+
+## How To Fix Windows Not Booting from GRUB in Windows/Linux Dualboot (if dualboot is done on a singular drive)
+https://github.com/Purgenta889/windowsgrubdualbootfix
