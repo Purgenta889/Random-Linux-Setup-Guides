@@ -1,6 +1,8 @@
 # Random Linux Setup Guides
 Whether for apps, system configuration, or anything else, this is a personal collection of the several guides I have made, regardless of official documentation or not. 
 
+**This page is no longer updated, and neither are these guides. If you wish to use them, run them with caution, and make sure you know what you're doing.**
+
 # Guides
 
 ## How To Setup AudioRelay on Fedora 43
